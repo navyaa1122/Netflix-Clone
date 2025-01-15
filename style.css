@@ -175,20 +175,20 @@ section.first > div {
   display: flex;
   font-family: "Poppins", serif;
   flex-direction: row;
-  flex-wrap: wrap; /* Allows items to wrap to the next line */
+  flex-wrap: wrap; 
   max-width: 80vw;
   margin: auto;
   color: white;
   padding: 50px;
   justify-content: center;
-  align-items: flex-start; /* Align items at the top for better spacing */
-  gap: 0.8rem; /* Add spacing between items */
+  align-items: flex-start; 
+  gap: 0.8rem; 
 }
 
 .faq h1 {
   color: #fff;
   text-align: left;
-  width: 100%; /* Ensures the heading spans full width */
+  width: 100%; 
 }
 
 details {
